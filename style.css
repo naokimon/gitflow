@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    font-family: sans-serif;
+}
+
+.header-top{
+    display: flex;
+    height: 12.5vh;
+    align-items: center;
+    justify-content: center;
+}
